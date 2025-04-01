@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.2">
   <diagram name="Страница — 1" id="u1uKne-qDeMZfQAYgLeE">
-    <mxGraphModel dx="1387" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2214" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,21 @@
         </mxCell>
         <mxCell id="-R2iYD6G5VZ62MOR1Gz--27" value="Завершение заказа" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="424.5" y="-560" width="57" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-1" value="Администратор" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-100.31" y="-390" width="270.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-510.32" width="1090" height="270.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-3" value="Актер" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-100.31" y="-119.37" width="270.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-239.69" width="1090" height="270.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-5" value="Бронирование квеста" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-780" width="49.69" height="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
