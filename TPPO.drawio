@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-R2iYD6G5VZ62MOR1Gz--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="-779.35" width="1090" height="270.63" as="geometry" />
+          <mxGeometry x="1895" y="-740" width="1090" height="270.63" as="geometry" />
         </mxCell>
         <mxCell id="-R2iYD6G5VZ62MOR1Gz--7" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-100.31" y="-657.18" width="270.63" height="30" as="geometry" />
@@ -53,13 +53,13 @@
           <mxGeometry x="-100.31" y="-390" width="270.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gj7sBWzn-W7E-TxNVWnS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="-512.18" width="1090" height="270.63" as="geometry" />
+          <mxGeometry x="1895" y="-472.8299999999999" width="1090" height="270.63" as="geometry" />
         </mxCell>
         <mxCell id="Gj7sBWzn-W7E-TxNVWnS-3" value="Актер" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-100.31" y="-119.37" width="270.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gj7sBWzn-W7E-TxNVWnS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="-241.54999999999998" width="1090" height="270.63" as="geometry" />
+          <mxGeometry x="1895" y="-202.2" width="1090" height="270.63" as="geometry" />
         </mxCell>
         <mxCell id="Gj7sBWzn-W7E-TxNVWnS-6" value="Бронирование квеста" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-409.93" y="-399.2" width="808.91" height="51.6" as="geometry" />
@@ -147,16 +147,90 @@
         <mxCell id="Gj7sBWzn-W7E-TxNVWnS-47" value="нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="758" y="-486.87" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-48" target="Gj7sBWzn-W7E-TxNVWnS-51">
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-48" target="Gj7sBWzn-W7E-TxNVWnS-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="938.6470588235293" y="-140" as="targetPoint" />
+            <mxPoint x="1020" y="-421.9411764705883" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-48" value="Формирование рассписания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-48" value="первичное бронирование квеста" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="879" y="-452.49" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-51" value="оповещение об возможном времени работы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="878.6470588235293" y="-170" width="120" height="60" as="geometry" />
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-53" target="Gj7sBWzn-W7E-TxNVWnS-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="-421.9411764705883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-53" value="Формирование рассписания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-452.4911764705883" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-55" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-447.4911764705883" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-56" value="Ожидание ответа актера" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="-486.87" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-55" target="Gj7sBWzn-W7E-TxNVWnS-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="-330" as="sourcePoint" />
+            <mxPoint x="1195" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-58" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-155" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-59" value="Сообщение об первичном бронировании игры" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="-50.02" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-66" target="Gj7sBWzn-W7E-TxNVWnS-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1265.7058823529414" y="-400.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-66" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="-155" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-58" target="Gj7sBWzn-W7E-TxNVWnS-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-68" value="Может ли актер провести игру" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="-89.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-70" value="нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1265.7058823529414" y="-640.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-72" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=message;" vertex="1" parent="1">
+          <mxGeometry x="1240.9958823529414" y="-449.2000000000002" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-73" value="Сообщение об отсутствии актера" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-479.2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1334" y="-691.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-76" value="Завершение заказа" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1332" y="-729" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gj7sBWzn-W7E-TxNVWnS-78" target="Gj7sBWzn-W7E-TxNVWnS-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-78" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=message;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-691.5" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-79" value="Сообщение об отклонении" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="-729" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj7sBWzn-W7E-TxNVWnS-80" value="да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
